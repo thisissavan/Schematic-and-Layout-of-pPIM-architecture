@@ -6,5 +6,7 @@
 - Furthermore, the layout for a cluster is also generated which consists of 9 cores laid down in a 3*3 manner.
 - Layout area of a cluster: 0.011 mm².
 
- ### Software Used: Cadence Virtuoso 
- ### Time Frame: Sep 2020 (ongoing) 
+
+#### Software Used: Cadence Virtuoso
+#### Time Frame: Sep 2020 (ongoing)
+#### Course : Graduate Paper ( EE792 )
